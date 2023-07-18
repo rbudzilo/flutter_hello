@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
           child: Text('Text', style: TextStyle(
             fontSize: 20,
             color: Colors.red,
-            fontFamily: 'Times New Roman'
+            fontFamily: 'Roboto',
           ),),
         ),
         floatingActionButton: FloatingActionButton(
